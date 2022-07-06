@@ -62,6 +62,9 @@ img {
     padding: 0 1em;
     max-width: 100%;
   }
+  footer .col-2 {
+    max-width: 100%;
+  }
   /*Typography*/
   p {
     margin: 1em 0;
